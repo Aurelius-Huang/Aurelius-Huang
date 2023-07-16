@@ -40,7 +40,7 @@
     </a>
     <br>
     <!-- GitHub Activity Graph GitHub 活动图 -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aurelius-Huang&theme=xcode&bg_color=FF000000&hide_border=true&hide_title=true" alt="Activity"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aurelius-Huang&theme=dark&bg_color=FF000000&hide_border=true&hide_title=true" alt="Activity"/>
 </div>
 
 <!-- GitHub metrics 信息指标 -->
