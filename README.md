@@ -23,10 +23,13 @@
 
 <div align="center"> 
     <br>
+    <img src="https://stats.justsong.cn/api/csdn?id=ChaoMing_H&theme=dark&hide_border=true">
+    <br>
+    <!-- github-readme-streak-stats 连续提交代码天数记录 -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aurelius-Huang&theme=dark&hide_border=true" />
+    <br>
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Aurelius-Huang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelius-Huang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-    <br>
-    <img src="https://stats.justsong.cn/api/csdn?id=ChaoMing_H&theme=dark&hide_border=true">
     <br>
     <!-- Awesome repo 比较好的仓库-->
     <a href="https://github.com/Aurelius-Huang/qihai-web">
@@ -35,9 +38,6 @@
     <a href="https://github.com/Aurelius-Huang/threefish">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurelius-Huang&repo=threefish&theme=dark&bg_color=121212&hide_border=true" />
     </a>
-    <br>
-    <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aurelius-Huang&theme=dark&hide_border=true" />
     <br>
     <!-- GitHub Activity Graph GitHub 活动图 -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aurelius-Huang&theme=xcode&bg_color=FF000000&hide_border=true&hide_title=true" alt="Activity"/>
